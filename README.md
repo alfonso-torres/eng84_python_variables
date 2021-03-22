@@ -19,3 +19,11 @@ print("Hello World!")
 ``` python
 .gitignore
 ```
+
+### .gitignore with python variables and README.md pushed to github
+
+- To add a comment in .py file we use ``` # ```
+
+- What is a variable?
+
+- variables work as a place holder
